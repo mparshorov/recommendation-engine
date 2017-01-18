@@ -1,3 +1,4 @@
 # Recommendation Engine
 This code was written following a tutorial on Apache Spark. I will not be including the data since it's very big.
-I am sorry but you probably will not be able to run this code.
+You can download it from this site: [https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/)
+and extract it in the 'data' folder
